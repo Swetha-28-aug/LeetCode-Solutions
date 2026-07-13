@@ -14,27 +14,21 @@ public:
         if (head == NULL || head->next == NULL || k == 0)
             return head;
 
-        int cnt=0;
-        ListNode *temp=head;
-        while(temp!=NULL){
-            temp=temp->next;
+        int cnt=1;
+        ListNode *tail=head;
+        while(tail->next!=NULL){
+            tail=tail->next;
             cnt++;
         }
-         k %= cnt;
-        if (k == 0)
-            return head;
-        temp=head;
+        ListNode *temp=head;
+        k=k%cnt;
+        if(k==0) return head;
         int steps=cnt-k-1;
         while(steps--){
             temp=temp->next;
         }
         ListNode *newhead=temp->next;
         temp->next=NULL;
-
-        ListNode *tail=newhead;
-        while(tail->next!=NULL){
-            tail=tail->next;
-        }
         tail->next=head;
         return newhead;
     }
