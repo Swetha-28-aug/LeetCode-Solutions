@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Recursion
 |  |
 | ------- |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
