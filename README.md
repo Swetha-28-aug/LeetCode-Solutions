@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0015-3sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Depth-First Search
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
