@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0396-rotate-function](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Sorting
 |  |
@@ -126,10 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0396-rotate-function](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0396-rotate-function) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0396-rotate-function](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0396-rotate-function) |
 ## Divide and Conquer
 |  |
 | ------- |
