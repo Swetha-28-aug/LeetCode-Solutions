@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0212-word-search-ii](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## String
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0212-word-search-ii](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
