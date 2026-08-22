@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0396-rotate-function](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Divide and Conquer
 |  |
 | ------- |
