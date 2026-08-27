@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
 |  |
 | ------- |
@@ -104,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0212-word-search-ii](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Graph Theory
 |  |
 | ------- |
