@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3871-count-commas-in-range-ii](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
