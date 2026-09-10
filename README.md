@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0169-majority-element](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0212-word-search-ii](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0396-rotate-function) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -185,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
