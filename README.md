@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
