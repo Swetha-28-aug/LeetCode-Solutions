@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0212-word-search-ii](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0396-rotate-function](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
