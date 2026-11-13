@@ -210,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
