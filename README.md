@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0595-big-countries) |
+| [0626-exchange-seats](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [1148-article-views-i](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1934-confirmation-rate](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1934-confirmation-rate) |
