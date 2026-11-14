@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [1148-article-views-i](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
+| [1484-group-sold-products-by-the-date](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1587-bank-account-summary-ii) |
 | [1934-confirmation-rate](https://github.com/Swetha-28-aug/LeetCode-Solutions/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
